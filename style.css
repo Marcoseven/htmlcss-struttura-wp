@@ -44,9 +44,8 @@ body {
 /* /sezione_intermedia */
 
 /* sezione_con_tre_colonne */
-.sezione_con_tre_colonne {
-	background-color: #abcfe7;
-	height: 500px;
+.container {
+	background-color: #0086ff;
 }
 
 .sidebar {
@@ -69,9 +68,10 @@ body {
 }
 /* /sezione_con_tre_colonne */
 
-/* footer */
+/* .footer */
 .footer {
 	background-color: #8801fe;
 	height: 100px;
 	margin-top: 1%;
 }
+/* /.footer */
