@@ -3,3 +3,14 @@
 	margin: 0;
 	padding: 0;
 }
+
+body {
+	padding: 1rem;
+}
+
+.header {
+	background-color: #e579e6;
+	height: 100px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
