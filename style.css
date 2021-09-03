@@ -15,7 +15,8 @@ body {
 }
 
 .header,
-.main {
+.main,
+.footer {
 	margin-left: 5%;
 	margin-right: 5%;
 }
@@ -67,3 +68,10 @@ body {
 	background-color: #abcfe7;
 }
 /* /sezione_con_tre_colonne */
+
+/* footer */
+.footer {
+	background-color: #8801fe;
+	height: 100px;
+	margin-top: 1%;
+}
